@@ -1,0 +1,11 @@
+Ans 1: Option b. Thymeleaf
+
+Ans 2: Option d. @Data
+
+Ans 3: Option D. All the above
+
+Ans 4: Option a. spring-boot-starter-web
+
+Ans 5: Option d. @Repository
+
+Ans 6: Option d. All the Above
